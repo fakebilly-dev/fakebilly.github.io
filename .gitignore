@@ -1,0 +1,20 @@
+# VS Code Config file
+.vscode/
+# Vuepress Cache
+.cache/
+# Vuepress Temp
+.temp/
+# Vuepress Output
+dist/
+# Build files
+packages/*/lib/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+/node_modules
+/package-lock.json
+.DS_Store
