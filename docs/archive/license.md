@@ -24,7 +24,7 @@
 5. 对```license```业务代码混淆加密，防止反编译跳过、替换验证过程
 
 ## 3. 授权方案
-![avatar](https://github.com/fakebilly-dev/photo-gallery/raw/master/license-picture/license-flow.jpg)
+![avatar](../_resource/image/archive/license/license-flow.jpg)
 
 ## 4. 流程图
-![avatar](https://github.com/fakebilly-dev/photo-gallery/raw/master/license-picture/license-plan.jpg)
+![avatar](../_resource/image/archive/license/license-plan.jpg)
