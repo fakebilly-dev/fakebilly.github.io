@@ -6,7 +6,7 @@
 
 根据公司需求做的 demo，产品多为 jar 包、war 包，对比客户端做授权灵活性较弱，以后做成 SDK 封装到产品中
 
-**代码：**[GitHub](https://github.com/fakebilly-dev/license)
+**代码：**[GitHub](https://github.com/fakebilly1us/license)
 
 ### 1.2 模块
 1. **machine-generate**
