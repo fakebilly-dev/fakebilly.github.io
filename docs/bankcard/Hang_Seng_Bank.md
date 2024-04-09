@@ -22,6 +22,6 @@
 2️⃣ 我预约之前做了攻略，很多说恒生开户需要买保险、买理财才给开，所以我就预约了 6 家分行碰碰运气。  
 3️⃣ 铜锣湾分行有跨境客户开户的指引。
 
-## 图片
+## 📸图片
 ### 恒生银行提款卡
 ![avatar](../_resource/image/bancard/hang_seng/hang_seng_bankcard.JPEG)

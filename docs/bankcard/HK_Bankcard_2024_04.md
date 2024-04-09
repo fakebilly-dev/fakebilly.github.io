@@ -21,7 +21,7 @@
 ## 📜相关文件
 ➡️ 地址证明、过去半年工资行流水、过去半年纳税记录文件我每一样彩印了 6 份、对应 6 家银行。  
 
-## 图片
+## 📸图片
 ### Notes 个人简体、繁体、英文、拼音信息
 ![avatar](../_resource/image/bancard/hk_bankcard_2024_04/notes_info.JPEG)
 ### Notes 银行分行预约记录
