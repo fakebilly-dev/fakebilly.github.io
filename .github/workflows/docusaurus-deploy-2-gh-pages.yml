@@ -1,0 +1,39 @@
+name: Docusaurus Deloy 2 GH-Pages Workflow
+
+on:
+  workflow_dispatch:
+  workflow_call:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Docusaurus Deloy 2 GH-Pages Build
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4.1.0
+        with:
+          submodules: recursive
+
+      - name: Setup Node
+        uses: actions/setup-node@v4.0.2
+        with:
+          node-version: '18.20.2'
+
+      - name: Yarn Install
+        run: |
+          npm install -g yarn
+
+      - name: Dependencies Install
+        run: |
+          yarn install
+
+      - name: Docusaurus Deploy
+        run: |
+          yarn clear
+          git config --global user.email "${{ secrets.GIT_USER_CONFIG_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_CONFIG_NAME }}"
+          GIT_USER=${{ secrets.DOCUSAURUS_DEPLOY_GIT_USER }} GIT_PASS=${{ secrets.DOCUSAURUS_DEPLOY_GIT_PASS }} yarn deploy
