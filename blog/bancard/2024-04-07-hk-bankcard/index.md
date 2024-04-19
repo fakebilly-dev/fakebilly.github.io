@@ -8,13 +8,17 @@ tags: [香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户,
 # 2024年4月香港银行卡开户总结
 
 ## 📽️说说我的经历
-开了6张卡，一天内开了5张，实际还挺累的。这6家银行我发布了6篇文章，可以参考。但是这些只是我的经历。  
-➡️ [中银香港](https://io.fakebilly.com/blog/%E4%B8%AD%E9%93%B6%E9%A6%99%E6%B8%AF%E5%BC%80%E6%88%B7)  
-➡️ [香港汇丰](https://io.fakebilly.com/blog/%E9%A6%99%E6%B8%AF%E6%B1%87%E4%B8%B0%E5%BC%80%E6%88%B7)  
-➡️ [工银亚洲](https://io.fakebilly.com/blog/%E5%B7%A5%E9%93%B6%E4%BA%9A%E6%B4%B2%E5%BC%80%E6%88%B7)  
-➡️ [招商永隆](https://io.fakebilly.com/blog/%E6%8B%9B%E5%95%86%E6%B0%B8%E9%9A%86%E5%BC%80%E6%88%B7)  
-➡️ [南洋商业银行](https://io.fakebilly.com/blog/%E5%8D%97%E6%B4%8B%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C%E5%BC%80%E6%88%B7)  
-➡️ [恒生银行](https://io.fakebilly.com/blog/%E6%81%92%E7%94%9F%E9%93%B6%E8%A1%8C%E5%BC%80%E6%88%B7)  
+开了6张卡，一天内开了5张，实际还挺累的。这6家银行我发布了6篇文章，还有4家虚拟银行开户文章，可以参考。但是这些只是我的经历。  
+➡️ [中银香港](https://io.fakebilly.com/blog/bankcard-hk-boc-hk)  
+➡️ [香港汇丰](https://io.fakebilly.com/blog/bankcard-hk-hsbc-hk)  
+➡️ [工银亚洲](https://io.fakebilly.com/blog/bankcard-hk-icbc-asia)  
+➡️ [招商永隆](https://io.fakebilly.com/blog/bankcard-hk-cmb-wing-lung)  
+➡️ [南洋商业银行](https://io.fakebilly.com/blog/bankcard-hk-ncb-hk)  
+➡️ [恒生银行](https://io.fakebilly.com/blog/bankcard-hk-hang-seng)  
+➡️ [众安银行(虚拟银行)](https://io.fakebilly.com/blog/bankcard-hk-zabank)  
+➡️ [livi理慧银行(虚拟银行)](https://io.fakebilly.com/blog/bankcard-hk-livi)  
+➡️ [天星银行(虚拟银行)](https://io.fakebilly.com/blog/bankcard-hk-airstar)  
+➡️ [蚂蚁银行香港(虚拟银行)](https://io.fakebilly.com/blog/bankcard-hk-antbank-hk)
 
 ## ☎️准备
 ➡️ 3 月就关注好了香港公众假期，各家银行营业时间，确定了清明 8 天假期，4 月 2 号办理、4 月 3 号补漏。  
