@@ -1,5 +1,5 @@
 ---
-slug: bankcard-hk-hang-seng
+slug: bank-hk-hang-seng
 title: 恒生银行开户
 authors: [fakebilly]
 tags: [恒生银行, 恒生银行开户, 香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户]

@@ -1,5 +1,5 @@
 ---
-slug: bankcard-hk-icbc-asia
+slug: bank-hk-icbc-asia
 title: 工银亚洲开户
 authors: [fakebilly]
 tags: [工银亚洲, 工银亚洲开户, 香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户]

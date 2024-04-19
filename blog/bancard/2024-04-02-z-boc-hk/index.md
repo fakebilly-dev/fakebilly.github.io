@@ -1,5 +1,5 @@
 ---
-slug: bankcard-hk-boc-hk
+slug: bank-hk-boc-hk
 title: 中银香港开户
 authors: [fakebilly]
 tags: [中银香港, 中银香港开户, 香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户]

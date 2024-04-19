@@ -1,5 +1,5 @@
 ---
-slug: bankcard-hk-antbank-hk
+slug: bank-hk-antbank-hk
 title: 蚂蚁银行开户
 authors: [fakebilly]
 tags: [蚂蚁银行, 蚂蚁银行开户, 香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户]

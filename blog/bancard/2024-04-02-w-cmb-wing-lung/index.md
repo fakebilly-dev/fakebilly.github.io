@@ -1,5 +1,5 @@
 ---
-slug: bankcard-hk-cmb-wing-lung
+slug: bank-hk-cmb-wing-lung
 title: 招商永隆开户
 authors: [fakebilly]
 tags: [招商永隆, 招商永隆开户, 香港银行卡, 香港银行卡开户, 香港银行, 香港银行开户]
