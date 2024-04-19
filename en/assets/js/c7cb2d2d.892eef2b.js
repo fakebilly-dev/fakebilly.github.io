@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_docusaurus=self.webpackChunkblog_docusaurus||[]).push([[5246],{1381:s=>{s.exports=JSON.parse('{"permalink":"/en/blog/tags/livi\u7406\u6167\u94f6\u884c\u94f6\u884c","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
